@@ -7,5 +7,6 @@
     "out": true // set this to false to include "out" folder in search results
   },
   "liveServer.settings.root": "/_site",
-  "eth-abi-interactive.privateKeysFile": "C:\\Users\\38598\\.eth-abi-interactive\\keys.json"
+  "eth-abi-interactive.privateKeysFile": "C:\\Users\\38598\\.eth-abi-interactive\\keys.json",
+  "eth-abi-interactive.nodeURI": "http://localhost:8545"
 }
