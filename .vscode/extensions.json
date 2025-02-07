@@ -2,6 +2,7 @@
   "recommendations": [
     "ms-python.debugpy",
     "github.vscode-pull-request-github",
-    "amazonwebservices.aws-toolkit-vscode"
+    "amazonwebservices.aws-toolkit-vscode",
+    "sarthikbhat.json-server"
   ]
 }
