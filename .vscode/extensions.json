@@ -1,3 +1,7 @@
 {
-  "recommendations": ["ms-python.debugpy", "github.vscode-pull-request-github"]
+  "recommendations": [
+    "ms-python.debugpy",
+    "github.vscode-pull-request-github",
+    "amazonwebservices.aws-toolkit-vscode"
+  ]
 }
