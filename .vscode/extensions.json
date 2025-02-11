@@ -3,6 +3,7 @@
     "ms-python.debugpy",
     "github.vscode-pull-request-github",
     "amazonwebservices.aws-toolkit-vscode",
-    "sarthikbhat.json-server"
+    "sarthikbhat.json-server",
+    "jlcs-es.eth-abi-interactive"
   ]
 }
